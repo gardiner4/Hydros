@@ -1,3 +1,5 @@
+#This logs in and stores your ID Token, Access Token, and Refresh Token
+
 import json
 from pycognito import Cognito
 from getpass import getpass
